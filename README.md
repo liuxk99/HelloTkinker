@@ -1,2 +1,2 @@
-# PyTemplate
-A template project for PyCharm IDE.
+# HelloTkinter
+A tkinker project.
